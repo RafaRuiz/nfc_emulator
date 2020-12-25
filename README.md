@@ -8,7 +8,7 @@ Add to pubspec.yaml:
 
 ```
 dependencies:
-  nfc_enumator: <latest version>
+  nfc_emulator: <latest version>
 ```
 
 ## Android Setup
